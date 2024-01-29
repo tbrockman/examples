@@ -1,6 +1,7 @@
 # main-world-content-script-message-passing
 
-> [!WARNING] Only verified to work in Chrome, Firefox does not offer a `MAIN` world.
+> [!WARNING]
+> Only verified to work in Chrome, Firefox does not offer a `MAIN` world.
 
 [See the original blog post](#TODO).
 
