@@ -1,0 +1,17 @@
+{
+    "name": "Main world content script relay",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js",
+        "type": "module"
+    },
+    "host_permissions": [
+        "https://*/*"
+    ],
+    "permissions": [
+        "tabs",
+        "scripting",
+        "activeTab"
+    ]
+}
